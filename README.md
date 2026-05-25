@@ -266,7 +266,7 @@ If you find my work interesting, feel free to:
 - 🤝 Collaborate on projects
 - 💬 Share ideas & feedback
 
-**Made with ❤️ from Makassar, Indonesia**
+**Makassar, Indonesia**
 
 *Last updated: May 25, 2026*
 *Data from GitHub API - Real-time statistics*
