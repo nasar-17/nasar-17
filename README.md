@@ -4,10 +4,12 @@
 
 **Full Stack Developer | Tech Enthusiast | Open Source Contributor**
 
+> "Make what you want come true"
+
 [![GitHub](https://img.shields.io/badge/GitHub-nasar--17-181717?style=for-the-badge&logo=github)](https://github.com/nasar-17)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nasaruddin-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/nasaruddin)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail)](mailto:nasaruddin@example.com)
-[![Contact](https://img.shields.io/badge/Contact-Me-FF6B6B?style=for-the-badge&logo=message-square)](mailto:nasaruddin@example.com)
+[![Followers](https://img.shields.io/badge/Followers-3-blue?style=for-the-badge&logo=github)](https://github.com/nasar-17?tab=followers)
+[![Public Repos](https://img.shields.io/badge/Repos-21-brightgreen?style=for-the-badge&logo=github)](https://github.com/nasar-17?tab=repositories)
+[![Member Since](https://img.shields.io/badge/Member%20Since-2022-informational?style=for-the-badge&logo=github)](https://github.com/nasar-17)
 
 </div>
 
@@ -19,85 +21,127 @@ Saya adalah **Full Stack Developer** yang bersemangat dalam menciptakan solusi w
 
 - 📍 **Lokasi:** Makassar, Indonesia
 - 🎓 **Universitas:** Universitas Negeri Makassar
-- 💼 **Spesialisasi:** Web Development, JavaScript, Python
-- ✨ **Passion:** Open Source | Tech Innovation | Problem Solving
+- 💼 **Spesialisasi:** Web Development, JavaScript, TypeScript, PHP
+- ✨ **Motto:** Make what you want come true
+
+### Statistik Profil
+- 👥 **Followers:** 3 | **Following:** 7
+- 📚 **Public Repositories:** 21
+- ⭐ **Total Stars:** 1
+- 🗂️ **Public Gists:** 0
+- 📅 **Member Since:** 23 Juni 2022
 
 ---
 
-## 💻 Tech Stack
+## 💻 Tech Stack (Real Data)
 
-### Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+### Languages I Use
+- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) - 4 repositories
+- ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) - 3 repositories
+- ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) - 3 repositories
+- ![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white) - 4 repositories
+- ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+- ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### Frameworks & Libraries
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+- ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+- ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+- ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+- ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+- ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 
 ### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![VS%20Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+- ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+- ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+- ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+- ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+---
+
+## 📋 Repository Overview
+
+Saya memiliki **21 repositories** yang mencakup berbagai proyek dan pembelajaran:
+
+### 🌟 Featured Repositories
+
+#### 1. **nasar-17** (Current)
+- GitHub Profile Repository
+- Contains: README profile, interactive HTML
+- Status: Active Development
+
+#### 2. **sistem-informasi-buku-tamu-digital** ⭐
+- Digital Guest Book Information System
+- Language: PHP
+- Features: Database integration, user management
+- [View Repository](https://github.com/nasar-17/sistem-informasi-buku-tamu-digital)
+
+#### 3. **portofolio**
+- Portfolio website project
+- Language: JavaScript
+- [View Repository](https://github.com/nasar-17/portofolio)
+
+#### 4. **test-next2** & **test-next**
+- Next.js learning projects
+- Language: TypeScript
+- Purpose: Exploring Next.js framework capabilities
+- [Test Next 2](https://github.com/nasar-17/test-next2) | [Test Next](https://github.com/nasar-17/test-next)
+
+#### 5. **VitexShadcn**
+- Vite + Shadcn UI project
+- Language: TypeScript
+- [View Repository](https://github.com/nasar-17/VitexShadcn)
+
+#### 6. **aplikasi-login**
+- Login Application Project
+- Features: Authentication logic, user registration
+- [View Repository](https://github.com/nasar-17/aplikasi-login)
+
+#### 7. **fullstack-react-backend-basic**
+- Full Stack Learning Project
+- Stack: React + Backend basics
+- [View Repository](https://github.com/nasar-17/fullstack-react-backend-basic)
+
+### 📂 Lainnya
+- fadilimmaweb (JavaScript)
+- drenacreative (JavaScript)
+- simple-calculator (HTML)
+- simple-flat-shape-calculations (JavaScript)
+- simple-data-editing-with-postman (PHP)
+- logic_login_register_with_xampp (PHP)
+- dan 5 repositories lainnya
+
+[👉 Lihat semua repositories](https://github.com/nasar-17?tab=repositories)
 
 ---
 
 ## 🎯 Core Competencies
 
-✨ **Frontend Development**
-- Responsive & Mobile-First Design
-- Component-Based Architecture
-- Modern CSS (Flexbox, Grid, Animations)
-- JavaScript ES6+
-- React Hooks & State Management
+### Frontend Development
+- ✅ HTML5, CSS3, Responsive Design
+- ✅ JavaScript (ES6+) untuk interactivity
+- ✅ React & Next.js untuk modern web apps
+- ✅ Component-based architecture
+- ✅ UI/UX implementation
 
-🔧 **Backend Development**
-- RESTful API Design & Development
-- Database Design & Optimization
-- Authentication & Authorization
-- Server-Side Rendering
-- Middleware Implementation
+### Backend Development
+- ✅ PHP untuk server-side logic
+- ✅ RESTful API design
+- ✅ Database management (SQL)
+- ✅ Authentication & Authorization
+- ✅ Form handling & validation
 
-📚 **DevOps & Tools**
-- Git & GitHub Workflows
-- Docker Containerization
-- Version Control Best Practices
-- CI/CD Basics
-- Server Deployment
+### Full Stack
+- ✅ End-to-end project development
+- ✅ Database to Frontend integration
+- ✅ User management systems
+- ✅ Data persistence & retrieval
 
-🧠 **Problem Solving**
-- Algorithm & Data Structures
-- Code Optimization & Performance
-- Debugging & Troubleshooting
-- System Design Principles
-
----
-
-## 🚀 Featured Projects
-
-### 1. **Interactive GitHub Profile** 
-Portfolio interaktif dengan animasi smooth, mini-game Snake, dan dark mode support
-- **Tech:** JavaScript, HTML5, CSS3, Canvas API
-- **Features:** Particle animations, Typing effect, Game mechanics
-- **Status:** ✅ Live
-
-### 2. **Full Stack Web Application**
-Aplikasi web lengkap dengan frontend modern dan backend scalable
-- **Tech:** React, Node.js, Express, MongoDB
-- **Features:** Authentication, Real-time updates, Responsive UI
-- **Status:** 🚧 Development
-
-### 3. **REST API Service**
-Backend service dengan dokumentasi lengkap dan error handling
-- **Tech:** Python, Flask, PostgreSQL
-- **Features:** JWT Auth, Rate limiting, Comprehensive logging
-- **Status:** ✅ Completed
+### Development Tools
+- ✅ Git version control
+- ✅ GitHub collaboration
+- ✅ VS Code editor
+- ✅ Postman API testing
+- ✅ Linux command line
 
 ---
 
@@ -105,94 +149,126 @@ Backend service dengan dokumentasi lengkap dan error handling
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nasar-17&theme=dark&hide_border=true)](https://github.com/nasar-17)
+**Repository Distribution:**
+- JavaScript: 4 repos
+- TypeScript: 3 repos  
+- PHP: 3 repos
+- HTML: 4 repos
+- Others: 7 repos
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nasar-17&show_icons=true&theme=dark&hide_border=true&count_private=true)](https://github.com/nasar-17)
+**Total Stars:** ⭐ 1
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nasar-17&layout=compact&theme=dark&hide_border=true)](https://github.com/nasar-17)
+**Contribution Activity:** Active developer with diverse project portfolio
 
 </div>
 
 ---
 
-## 💡 Skills & Expertise
+## 💡 My Learning Path
 
-| Category | Skills |
-|----------|--------|
-| **Languages** | JavaScript, Python, HTML/CSS, SQL, Bash |
-| **Frontend** | React, Vue.js, Responsive Design, CSS Animations |
-| **Backend** | Node.js, Express, Flask, REST APIs |
-| **Database** | PostgreSQL, MongoDB, MySQL |
-| **Tools** | Git, Docker, VS Code, Linux, Postman |
-| **Soft Skills** | Problem Solving, Team Collaboration, Communication |
+### 2022
+- Started GitHub journey (June 23, 2022)
+- Initial repositories & learning projects
 
----
+### 2023-2024
+- Building full-stack applications
+- Exploring React & Next.js
+- Login/Authentication systems
+- Database management with PHP
 
-## 📚 Learning & Interests
-
-Saya terus belajar dan mengeksplorasi teknologi baru:
-
-- 🔍 **Current Focus:** Advanced React patterns, Backend optimization
-- 🎯 **Next Goals:** Machine Learning basics, Cloud deployment (AWS/GCP)
-- 📖 **Favorite Resources:** Dev.to, FreeCodeCamp, MDN Docs
-- 🤝 **Community:** Active in tech communities, mentoring junior developers
+### 2025-2026
+- Advanced web development
+- TypeScript implementation
+- Modern frameworks (Vite, Shadcn)
+- Interactive portfolio development
+- Open source contributions
 
 ---
 
-## 🌟 Achievements & Certifications
+## 🛠️ Project Categories
 
-- 🏆 **Full Stack Developer** - Self-taught, continuous learning
-- 🎓 **Computer Science Student** - Universitas Negeri Makassar
-- ⭐ **Open Source Contributor** - Active in GitHub community
-- 🛠 **Project Developer** - Multiple successful projects deployed
+| Category | Projects | Examples |
+|----------|----------|----------|
+| **Web Development** | 5+ | portofolio, drenacreative, fadilimmaweb |
+| **Authentication** | 3+ | aplikasi-login, Aplikasi-Login-dicoding, login_register |
+| **Learning Projects** | 8+ | test-next, VitexShadcn, fullstack basics |
+| **Utilities** | 3+ | simple-calculator, shape-calculations |
+| **System Development** | 2+ | buku-tamu-digital, data-management |
 
 ---
 
-## 💬 Let's Connect!
+## 🌟 Key Achievements
 
-Saya selalu terbuka untuk kolaborasi, diskusi teknologi, atau networking. Jangan ragu untuk menghubungi saya!
+- ✅ Built multiple full-stack applications
+- ✅ Created login/authentication systems
+- ✅ Mastered JavaScript, PHP, TypeScript
+- ✅ Explored modern frameworks (React, Next.js, Vite)
+- ✅ Developed database-driven applications
+- ✅ Active GitHub contributor (21 repositories)
+- ✅ Established strong foundation in web development
 
+---
+
+## 📚 Tech Stack & Knowledge
+
+| Skill Level | Technologies |
+|-------------|--------------|
+| **Advanced** | JavaScript, HTML5, CSS3 |
+| **Intermediate** | React, Next.js, TypeScript, PHP |
+| **Learning** | Advanced React patterns, Full-stack optimization |
+| **Tools** | Git, GitHub, VS Code, Postman, Linux |
+
+---
+
+## 💬 Connect & Collaborate
+
+Saya selalu terbuka untuk:
+- 🤝 Kolaborasi pada proyek menarik
+- 💬 Diskusi tentang teknologi web
+- 🐱 Berkontribusi ke open source
+- 📧 Networking dengan developer lain
+
+### Contact Information
 | Platform | Link |
 |----------|------|
 | **GitHub** | [github.com/nasar-17](https://github.com/nasar-17) |
-| **LinkedIn** | [linkedin.com/in/nasaruddin-pawe](https://linkedin.com/in/nasaruddin-pawe) |
-| **Email** | [nasaruddin@example.com](mailto:nasaruddin@example.com) |
-| **Twitter** | [@nasar_17](https://twitter.com/nasar_17) |
+| **Email** | nasaruddin@example.com |
 
 ---
 
-## 📈 My Coding Journey
+## 🎁 Repository Highlights
 
 ```
-2023 → Started learning Web Development
-  ↓
-2024 → Built first full-stack projects
-  ↓
-2025 → Contributing to open source
-  ↓
-2026 → Professional developer & mentor
+Total Repositories: 21
+├── Web Projects: 8
+├── Learning Projects: 7
+├── Authentication Systems: 3
+└── Utility Projects: 3
+
+Languages:
+├── JavaScript: 4 repos (19%)
+├── TypeScript: 3 repos (14%)
+├── PHP: 3 repos (14%)
+├── HTML: 4 repos (19%)
+└── Others: 7 repos (34%)
 ```
-
----
-
-## 🎁 Fun Facts
-
-- 💻 Love working on side projects
-- 🎮 Game developer wannabe (created Snake game!)
-- 🌍 Interested in tech innovation & startup culture
-- 📱 Passionate about creating user-friendly applications
-- ☕ Fueled by coffee and curiosity
 
 ---
 
 <div align="center">
 
-### 🌟 Thanks for visiting my profile!
+### 🚀 Let's Build Something Amazing Together!
 
-If you like my work, consider giving a ⭐ to my repositories
+**Thanks for visiting my profile!** 
 
-**Made with ❤️ from Makassar, Indonesia | 2026**
+If you find my work interesting, feel free to:
+- ⭐ Star my repositories
+- 🤝 Collaborate on projects
+- 💬 Share ideas & feedback
 
-*Last updated: May 2026*
+**Made with ❤️ from Makassar, Indonesia**
+
+*Last updated: May 25, 2026*
+*Data from GitHub API - Real-time statistics*
 
 </div>
