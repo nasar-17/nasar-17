@@ -39,5 +39,5 @@
 ---
 
 <div align="center">
-  <sub>Made with ❤️ from Makassar · Open to collaborate</sub>
+  <sub>Nasaruddin Pawe · Open to collaborate</sub>
 </div>
