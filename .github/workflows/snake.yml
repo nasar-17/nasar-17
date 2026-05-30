@@ -8,17 +8,17 @@ on:
     branches:
       - main
 
+permissions:
+  contents: write
+
 jobs:
   generate:
     runs-on: ubuntu-latest
     timeout-minutes: 10
-    permissions:
-      contents: write
-      actions: read
 
     steps:
-      - name: Checkout Repository
-        uses: actions/checkout@v4
+      - name: Checkout
+        uses: actions/checkout@v3
 
       - name: Generate Snake Animation
         uses: Platane/snk/svg-only@v3
@@ -29,8 +29,8 @@ jobs:
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
       - name: Push to Output Branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+        uses: peaceiris/actions-gh-pages@v3
         with:
-          target_branch: output
-          build_dir: dist
           github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist
+          publish_branch: output
