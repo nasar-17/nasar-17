@@ -1,274 +1,89 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrng815IU/giphy.gif" width="40px" alt="wave"/> Halo! Saya Nasaruddin Pawe
-
 <div align="center">
 
-**Full Stack Developer | Tech Enthusiast | Open Source Contributor**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:58a6ff&height=120&section=header&text=Nasaruddin%20Pawe&fontSize=40&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%"/>
 
-> "Make what you want come true"
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrng815IU/giphy.gif" width="28px"/> Hey, I'm Nasar!
 
-[![GitHub](https://img.shields.io/badge/GitHub-nasar--17-181717?style=for-the-badge&logo=github)](https://github.com/nasar-17)
-[![Followers](https://img.shields.io/badge/Followers-3-blue?style=for-the-badge&logo=github)](https://github.com/nasar-17?tab=followers)
-[![Public Repos](https://img.shields.io/badge/Repos-21-brightgreen?style=for-the-badge&logo=github)](https://github.com/nasar-17?tab=repositories)
-[![Member Since](https://img.shields.io/badge/Member%20Since-2022-informational?style=for-the-badge&logo=github)](https://github.com/nasar-17)
+**Full Stack Developer** · Makassar, Indonesia · *"Make what you want come true"*
+
+[![GitHub followers](https://img.shields.io/github/followers/nasar-17?style=flat-square&color=58a6ff&labelColor=0d1117&label=Followers)](https://github.com/nasar-17?tab=followers)
+[![GitHub User's stars](https://img.shields.io/github/stars/nasar-17?style=flat-square&color=ffd700&labelColor=0d1117&label=Stars)](https://github.com/nasar-17?tab=repositories)
+![Profile views](https://komarev.com/ghpvc/?username=nasar-17&style=flat-square&color=58a6ff&labelColor=0d1117)
 
 </div>
 
 ---
 
-## 👨‍💼 Tentang Saya
+## 🧑‍💻 About Me
 
-Saya adalah **Full Stack Developer** yang bersemangat dalam menciptakan solusi web yang elegan dan efisien. Dengan pengalaman di berbagai teknologi modern, saya fokus pada clean code, user experience, dan continuous learning.
-
-- 📍 **Lokasi:** Makassar, Indonesia
-- 🎓 **Universitas:** Universitas Negeri Makassar
-- 💼 **Spesialisasi:** Web Development, JavaScript, TypeScript, PHP
-- ✨ **Motto:** Make what you want come true
-
-### Statistik Profil
-- 👥 **Followers:** 3 | **Following:** 7
-- 📚 **Public Repositories:** 21
-- ⭐ **Total Stars:** 1
-- 🗂️ **Public Gists:** 0
-- 📅 **Member Since:** 23 Juni 2022
+- 🎓 Mahasiswa **Universitas Negeri Makassar**
+- 💡 Passionate tentang **Web Development** & **Clean Code**
+- 🌱 Sedang belajar **Advanced React** & **TypeScript**
+- 📫 Reach me: [github.com/nasar-17](https://github.com/nasar-17)
 
 ---
 
-## 💻 Tech Stack (Real Data)
-
-### Languages I Use
-- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) - 4 repositories
-- ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) - 3 repositories
-- ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) - 3 repositories
-- ![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white) - 4 repositories
-- ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-- ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### Frameworks & Libraries
-- ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-- ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-- ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-- ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-- ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-
-### Tools & Platforms
-- ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-- ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-- ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-- ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
----
-
-## 📋 Repository Overview
-
-Saya memiliki **21 repositories** yang mencakup berbagai proyek dan pembelajaran:
-
-### 🌟 Featured Repositories
-
-#### 1. **nasar-17** (Current)
-- GitHub Profile Repository
-- Contains: README profile, interactive HTML
-- Status: Active Development
-
-#### 2. **sistem-informasi-buku-tamu-digital** ⭐
-- Digital Guest Book Information System
-- Language: PHP
-- Features: Database integration, user management
-- [View Repository](https://github.com/nasar-17/sistem-informasi-buku-tamu-digital)
-
-#### 3. **portofolio**
-- Portfolio website project
-- Language: JavaScript
-- [View Repository](https://github.com/nasar-17/portofolio)
-
-#### 4. **test-next2** & **test-next**
-- Next.js learning projects
-- Language: TypeScript
-- Purpose: Exploring Next.js framework capabilities
-- [Test Next 2](https://github.com/nasar-17/test-next2) | [Test Next](https://github.com/nasar-17/test-next)
-
-#### 5. **VitexShadcn**
-- Vite + Shadcn UI project
-- Language: TypeScript
-- [View Repository](https://github.com/nasar-17/VitexShadcn)
-
-#### 6. **aplikasi-login**
-- Login Application Project
-- Features: Authentication logic, user registration
-- [View Repository](https://github.com/nasar-17/aplikasi-login)
-
-#### 7. **fullstack-react-backend-basic**
-- Full Stack Learning Project
-- Stack: React + Backend basics
-- [View Repository](https://github.com/nasar-17/fullstack-react-backend-basic)
-
-### 📂 Lainnya
-- fadilimmaweb (JavaScript)
-- drenacreative (JavaScript)
-- simple-calculator (HTML)
-- simple-flat-shape-calculations (JavaScript)
-- simple-data-editing-with-postman (PHP)
-- logic_login_register_with_xampp (PHP)
-- dan 5 repositories lainnya
-
-[👉 Lihat semua repositories](https://github.com/nasar-17?tab=repositories)
-
----
-
-## 🎯 Core Competencies
-
-### Frontend Development
-- ✅ HTML5, CSS3, Responsive Design
-- ✅ JavaScript (ES6+) untuk interactivity
-- ✅ React & Next.js untuk modern web apps
-- ✅ Component-based architecture
-- ✅ UI/UX implementation
-
-### Backend Development
-- ✅ PHP untuk server-side logic
-- ✅ RESTful API design
-- ✅ Database management (SQL)
-- ✅ Authentication & Authorization
-- ✅ Form handling & validation
-
-### Full Stack
-- ✅ End-to-end project development
-- ✅ Database to Frontend integration
-- ✅ User management systems
-- ✅ Data persistence & retrieval
-
-### Development Tools
-- ✅ Git version control
-- ✅ GitHub collaboration
-- ✅ VS Code editor
-- ✅ Postman API testing
-- ✅ Linux command line
-
----
-
-## 📊 GitHub Statistics
+## 🛠 Tech Stack
 
 <div align="center">
 
-**Repository Distribution:**
-- JavaScript: 4 repos
-- TypeScript: 3 repos  
-- PHP: 3 repos
-- HTML: 4 repos
-- Others: 7 repos
-
-**Total Stars:** ⭐ 1
-
-**Contribution Activity:** Active developer with diverse project portfolio
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 </div>
 
 ---
 
-## 💡 My Learning Path
+## 📊 GitHub Stats
 
-### 2022
-- Started GitHub journey (June 23, 2022)
-- Initial repositories & learning projects
+<div align="center">
 
-### 2023-2024
-- Building full-stack applications
-- Exploring React & Next.js
-- Login/Authentication systems
-- Database management with PHP
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=nasar-17&show_icons=true&theme=github_dark&hide_border=true&count_private=true"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nasar-17&layout=compact&theme=github_dark&hide_border=true"/>
 
-### 2025-2026
-- Advanced web development
-- TypeScript implementation
-- Modern frameworks (Vite, Shadcn)
-- Interactive portfolio development
-- Open source contributions
+</div>
 
 ---
 
-## 🛠️ Project Categories
+## 🐍 Snake — Makan Contribution Saya!
 
-| Category | Projects | Examples |
-|----------|----------|----------|
-| **Web Development** | 5+ | portofolio, drenacreative, fadilimmaweb |
-| **Authentication** | 3+ | aplikasi-login, Aplikasi-Login-dicoding, login_register |
-| **Learning Projects** | 8+ | test-next, VitexShadcn, fullstack basics |
-| **Utilities** | 3+ | simple-calculator, shape-calculations |
-| **System Development** | 2+ | buku-tamu-digital, data-management |
+> Ular ini memakan setiap kontribusi yang saya buat. Semakin banyak commit, semakin panjang ularnya! 🎮
 
----
+<div align="center">
 
-## 🌟 Key Achievements
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nasar-17/nasar-17/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nasar-17/nasar-17/output/github-contribution-grid-snake.svg"/>
+  <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/nasar-17/nasar-17/output/github-contribution-grid-snake-dark.svg"/>
+</picture>
 
-- ✅ Built multiple full-stack applications
-- ✅ Created login/authentication systems
-- ✅ Mastered JavaScript, PHP, TypeScript
-- ✅ Explored modern frameworks (React, Next.js, Vite)
-- ✅ Developed database-driven applications
-- ✅ Active GitHub contributor (21 repositories)
-- ✅ Established strong foundation in web development
+</div>
 
 ---
 
-## 📚 Tech Stack & Knowledge
+## 🌟 Featured Projects
 
-| Skill Level | Technologies |
-|-------------|--------------|
-| **Advanced** | JavaScript, HTML5, CSS3 |
-| **Intermediate** | React, Next.js, TypeScript, PHP |
-| **Learning** | Advanced React patterns, Full-stack optimization |
-| **Tools** | Git, GitHub, VS Code, Postman, Linux |
-
----
-
-## 💬 Connect & Collaborate
-
-Saya selalu terbuka untuk:
-- 🤝 Kolaborasi pada proyek menarik
-- 💬 Diskusi tentang teknologi web
-- 🐱 Berkontribusi ke open source
-- 📧 Networking dengan developer lain
-
-### Contact Information
-| Platform | Link |
-|----------|------|
-| **GitHub** | [github.com/nasar-17](https://github.com/nasar-17) |
-| **Email** | nasaruddin@example.com |
-
----
-
-## 🎁 Repository Highlights
-
-```
-Total Repositories: 21
-├── Web Projects: 8
-├── Learning Projects: 7
-├── Authentication Systems: 3
-└── Utility Projects: 3
-
-Languages:
-├── JavaScript: 4 repos (19%)
-├── TypeScript: 3 repos (14%)
-├── PHP: 3 repos (14%)
-├── HTML: 4 repos (19%)
-└── Others: 7 repos (34%)
-```
+| Project | Tech | Deskripsi |
+|---------|------|-----------|
+| [📗 sistem-informasi-buku-tamu-digital](https://github.com/nasar-17/sistem-informasi-buku-tamu-digital) | PHP · SQL | Sistem buku tamu digital dengan manajemen user |
+| [💼 portofolio](https://github.com/nasar-17/portofolio) | JavaScript | Website portfolio pribadi |
+| [🔐 aplikasi-login](https://github.com/nasar-17/aplikasi-login) | JS · PHP | Sistem autentikasi & registrasi |
+| [⚡ VitexShadcn](https://github.com/nasar-17/VitexShadcn) | TypeScript | Vite + Shadcn UI boilerplate |
 
 ---
 
 <div align="center">
 
-### 🚀 Let's Build Something Amazing Together!
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,100:0d1117&height=80&section=footer" width="100%"/>
 
-**Thanks for visiting my profile!** 
-
-If you find my work interesting, feel free to:
-- ⭐ Star my repositories
-- 🤝 Collaborate on projects
-- 💬 Share ideas & feedback
-
-**Makassar, Indonesia**
-
-*Last updated: May 25, 2026*
-*Data from GitHub API - Real-time statistics*
+*Thanks for visiting! Drop a ⭐ if you like my work!*
 
 </div>
